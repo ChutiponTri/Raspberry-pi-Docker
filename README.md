@@ -7,7 +7,7 @@ These instructions are available on the official site, but they are somewhat hid
 If you want to skip reading the instructions I have made a script that you can run directly from the terminal of your Pi
 
 ```bash
-sudo curl -sL https://raw.githubusercontent.com/ezekeal/scripts/main/docker-pi.sh | bash
+sudo curl -sL https://raw.githubusercontent.com/ChutiponTri/Raspberry-pi-Docker/refs/heads/main/docker-pi.sh | bash
 ```
 
 ### Add GPG Keys
